@@ -1,0 +1,7 @@
+,seq_id,ratio1 ,ratio2 ,both
+1,rewrite -z | balance | refactor -z | lut_opt | balance | refactor,0.7271391847227323,0.4444444444444444,1.1715836291671766
+5,rewrite -z | balance | balance | lut_opt | balance | refactor,0.7194271024605214,0.5,1.2194271024605214
+2,refactor | lut_opt | balance | refactor | rewrite -z | rewrite -z,0.6661770106500183,0.5555555555555556,1.2217325662055738
+3,rewrite | lut_opt | balance | refactor | rewrite -z | rewrite -z,0.6661770106500183,0.5555555555555556,1.2217325662055738
+0,refactor | lut_opt | balance | refactor | rewrite -z | balance,0.6569959603378627,0.7222222222222222,1.3792181825600849
+4,rewrite | lut_opt | balance | refactor | rewrite -z | balance,0.6569959603378627,0.7222222222222222,1.3792181825600849

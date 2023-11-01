@@ -1,0 +1,159 @@
+,seq_id,ratio1 ,ratio2 ,both
+0,refactor | rewrite | refactor -z | balance | rewrite | refactor -z | balance | balance | balance | refactor -z,1.0,1.0,2.0
+101,rewrite | refactor | rewrite -z | refactor -z | balance | rewrite -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+102,refactor -z | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+103,rewrite | refactor | rewrite -z | rewrite | refactor -z | rewrite | refactor | lut_opt | refactor -z | refactor,1.0,1.0,2.0
+104,rewrite | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+105,refactor -z | rewrite -z | refactor | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+106,balance | rewrite -z | refactor | balance | balance | refactor -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+107,rewrite | rewrite -z | rewrite -z | balance | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+108,refactor -z | refactor | rewrite -z | balance | balance | refactor -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+109,refactor -z | rewrite -z | rewrite -z | balance | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+110,refactor -z | rewrite -z | refactor | balance | balance | refactor -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+111,refactor -z | rewrite -z | rewrite -z | balance | balance | refactor -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+112,balance | rewrite -z | refactor | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+113,rewrite | refactor | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+114,balance | refactor | rewrite -z | rewrite | balance | rewrite | refactor | lut_opt | rewrite | refactor,1.0,1.0,2.0
+115,refactor -z | rewrite -z | rewrite -z | balance | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+100,rewrite | rewrite -z | rewrite -z | balance | balance | refactor -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+99,rewrite | refactor | rewrite -z | balance | balance | refactor -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+98,refactor -z | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+97,refactor -z | rewrite -z | rewrite -z | rewrite | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+81,rewrite | rewrite -z | rewrite -z | rewrite | balance | rewrite -z | refactor | lut_opt | balance | refactor,1.0,1.0,2.0
+82,rewrite | refactor -z | rewrite -z | balance | balance | rewrite -z | refactor -z | lut_opt | rewrite | refactor,1.0,1.0,2.0
+83,balance | rewrite -z | rewrite -z | balance | balance | refactor -z | refactor | lut_opt | balance | rewrite,1.0,1.0,2.0
+84,rewrite | rewrite -z | rewrite | refactor -z | balance | balance | rewrite -z | lut_opt | balance | refactor,1.0,1.0,2.0
+85,balance | refactor | rewrite -z | rewrite | balance | rewrite | refactor | lut_opt | refactor | refactor,1.0,1.0,2.0
+86,rewrite | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+87,rewrite | refactor | rewrite -z | balance | balance | rewrite -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+116,refactor -z | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+88,balance | refactor | rewrite | rewrite | balance | rewrite | rewrite -z | lut_opt | refactor | refactor,1.0,1.0,2.0
+90,refactor -z | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+91,balance | refactor | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | balance | refactor,1.0,1.0,2.0
+92,balance | rewrite -z | rewrite -z | refactor -z | balance | rewrite -z | refactor | lut_opt | balance | rewrite,1.0,1.0,2.0
+93,rewrite | refactor | rewrite -z | balance | balance | refactor -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+94,balance | refactor | rewrite -z | balance | balance | rewrite | refactor | lut_opt | refactor | refactor,1.0,1.0,2.0
+95,rewrite | rewrite -z | rewrite -z | refactor -z | balance | refactor | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+96,rewrite | refactor | rewrite -z | balance | balance | rewrite -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+89,balance | refactor | rewrite -z | balance | balance | rewrite -z | refactor | lut_opt | balance | rewrite,1.0,1.0,2.0
+117,refactor -z | refactor | rewrite -z | balance | balance | refactor -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+118,balance | refactor | rewrite -z | balance | balance | rewrite | refactor | lut_opt | rewrite | refactor,1.0,1.0,2.0
+119,rewrite | rewrite -z | rewrite -z | refactor | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+140,balance | refactor | rewrite -z | refactor | balance | refactor | refactor | lut_opt | refactor | refactor,1.0,1.0,2.0
+141,balance | refactor | rewrite | refactor -z | balance | rewrite | refactor | lut_opt | rewrite | refactor,1.0,1.0,2.0
+142,balance | rewrite -z | rewrite -z | refactor | balance | refactor -z | refactor | balance | refactor | rewrite,1.0,1.0,2.0
+143,rewrite | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | refactor,1.0,1.0,2.0
+144,rewrite | refactor | rewrite -z | refactor -z | lut_opt | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+145,balance | refactor | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | refactor,1.0,1.0,2.0
+146,balance | refactor | rewrite -z | rewrite -z | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+139,rewrite | refactor | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | refactor,1.0,1.0,2.0
+147,balance | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+149,rewrite | refactor | rewrite -z | refactor | balance | refactor | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+150,rewrite | refactor | rewrite -z | refactor -z | balance | rewrite | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+151,balance | refactor | rewrite -z | refactor -z | balance | refactor | refactor | lut_opt | refactor | refactor,1.0,1.0,2.0
+152,balance | rewrite -z | rewrite -z | rewrite -z | balance | refactor -z | refactor | balance | rewrite | refactor,1.0,1.0,2.0
+153,balance | refactor | rewrite -z | refactor | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+154,rewrite | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | refactor | rewrite -z,1.0,1.0,2.0
+155,rewrite | refactor | rewrite -z | refactor | balance | refactor -z | refactor | lut_opt | refactor | rewrite -z,1.0,1.0,2.0
+148,rewrite | refactor | rewrite -z | refactor | balance | rewrite | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+80,refactor -z | refactor | rewrite -z | balance | balance | refactor -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+138,balance | refactor | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+136,balance | refactor | rewrite -z | rewrite -z | balance | rewrite | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+120,balance | refactor | rewrite -z | refactor -z | balance | rewrite | refactor | lut_opt | refactor | refactor,1.0,1.0,2.0
+121,refactor -z | refactor | rewrite -z | rewrite | balance | refactor -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+122,refactor -z | refactor | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+123,refactor -z | rewrite -z | refactor | rewrite | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+124,refactor -z | rewrite -z | rewrite -z | rewrite | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+125,balance | refactor | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+126,balance | refactor | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+137,rewrite | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+127,refactor -z | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+129,balance | refactor | rewrite -z | refactor -z | balance | rewrite | refactor | lut_opt | rewrite | refactor,1.0,1.0,2.0
+130,refactor -z | rewrite -z | refactor | rewrite | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+131,balance | refactor | rewrite -z | refactor -z | balance | refactor | refactor | lut_opt | refactor | refactor,1.0,1.0,2.0
+132,refactor -z | rewrite -z | rewrite -z | rewrite | balance | balance | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+133,balance | refactor | rewrite -z | refactor -z | balance | rewrite | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+134,refactor -z | refactor | rewrite -z | refactor -z | balance | rewrite | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+135,balance | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | refactor,1.0,1.0,2.0
+128,rewrite | refactor | rewrite -z | refactor | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+79,rewrite | refactor -z | rewrite -z | rewrite | balance | refactor -z | refactor -z | balance | balance | refactor,1.0,1.0,2.0
+78,rewrite | refactor | rewrite -z | refactor -z | balance | rewrite -z | rewrite -z | lut_opt | refactor | rewrite,1.0,1.0,2.0
+77,rewrite | refactor | rewrite -z | refactor -z | balance | rewrite -z | rewrite -z | lut_opt | balance | rewrite,1.0,1.0,2.0
+21,refactor | refactor | rewrite -z | rewrite | balance | rewrite -z | balance | lut_opt | rewrite | refactor,1.0,1.0,2.0
+22,balance | balance | rewrite -z | refactor | rewrite -z | rewrite -z | refactor -z | lut_opt | rewrite -z | refactor,1.0,1.0,2.0
+23,rewrite | balance | rewrite -z | rewrite | balance | refactor -z | balance | lut_opt | rewrite | refactor,1.0,1.0,2.0
+24,rewrite | refactor | lut_opt | rewrite | balance | rewrite -z | refactor -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+25,refactor -z | rewrite -z | rewrite -z | balance | balance | rewrite -z | refactor | rewrite -z | refactor -z | refactor,1.0,1.0,2.0
+26,rewrite | balance | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | balance | rewrite,1.0,1.0,2.0
+27,refactor | refactor | lut_opt | rewrite -z | rewrite -z | rewrite -z | refactor -z | lut_opt | rewrite -z | refactor,1.0,1.0,2.0
+20,refactor | refactor | lut_opt | refactor | rewrite -z | rewrite -z | balance | lut_opt | rewrite -z | rewrite,1.0,1.0,2.0
+28,balance | refactor | rewrite -z | rewrite | balance | rewrite -z | refactor -z | lut_opt | rewrite | refactor,1.0,1.0,2.0
+30,rewrite | balance | refactor | rewrite | lut_opt | lut_opt | lut_opt | lut_opt | refactor | refactor,1.0,1.0,2.0
+31,balance | refactor | rewrite -z | refactor -z | balance | rewrite -z | rewrite -z | lut_opt | rewrite | refactor,1.0,1.0,2.0
+32,rewrite | balance | rewrite -z | balance | balance | refactor -z | balance | lut_opt | rewrite | refactor,1.0,1.0,2.0
+33,rewrite | refactor -z | rewrite | balance | balance | rewrite -z | refactor -z | rewrite | rewrite | refactor,1.0,1.0,2.0
+34,balance | refactor | rewrite -z | rewrite | balance | refactor -z | refactor -z | lut_opt | balance | rewrite,1.0,1.0,2.0
+35,refactor -z | rewrite -z | rewrite -z | rewrite | balance | refactor -z | refactor | rewrite -z | refactor -z | refactor,1.0,1.0,2.0
+36,rewrite | refactor -z | rewrite -z | balance | lut_opt | lut_opt | lut_opt | rewrite | refactor | rewrite,1.0,1.0,2.0
+29,rewrite | balance | rewrite -z | rewrite | balance | rewrite -z | balance | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+37,balance | refactor | refactor | refactor -z | balance | refactor -z | rewrite -z | lut_opt | balance | refactor,1.0,1.0,2.0
+19,balance | refactor | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | balance | rewrite,1.0,1.0,2.0
+17,rewrite | balance | rewrite -z | rewrite | balance | rewrite -z | refactor -z | lut_opt | rewrite | refactor,1.0,1.0,2.0
+1,refactor -z | refactor -z | balance | rewrite | refactor | lut_opt | refactor | rewrite -z | refactor -z | refactor -z,1.0,1.0,2.0
+2,refactor -z | rewrite | rewrite | rewrite -z | refactor -z | refactor | rewrite -z | rewrite -z | rewrite | balance,1.0,1.0,2.0
+3,balance | refactor | lut_opt | refactor | rewrite -z | rewrite -z | refactor -z | lut_opt | rewrite -z | rewrite,1.0,1.0,2.0
+4,rewrite | refactor -z | refactor | balance | lut_opt | lut_opt | lut_opt | rewrite | refactor | refactor,1.0,1.0,2.0
+5,rewrite | balance | rewrite -z | rewrite | balance | rewrite -z | balance | lut_opt | rewrite | refactor,1.0,1.0,2.0
+6,rewrite -z | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | rewrite | refactor -z | balance | lut_opt,1.0,1.0,2.0
+7,rewrite -z | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | rewrite -z | balance | lut_opt,1.0,1.0,2.0
+18,rewrite -z | refactor -z | balance | refactor -z | refactor | lut_opt | rewrite | refactor -z | balance | lut_opt,1.0,1.0,2.0
+8,refactor | refactor | lut_opt | refactor | rewrite -z | rewrite -z | refactor -z | lut_opt | rewrite -z | rewrite,1.0,1.0,2.0
+10,balance | rewrite | refactor -z | balance | rewrite | refactor -z | balance | balance | balance | refactor,1.0,1.0,2.0
+11,rewrite | refactor -z | refactor | rewrite | lut_opt | lut_opt | lut_opt | rewrite | refactor | refactor -z,1.0,1.0,2.0
+12,rewrite -z | rewrite | rewrite -z | refactor -z | balance | refactor | rewrite | refactor -z | balance | balance,1.0,1.0,2.0
+13,refactor -z | refactor -z | balance | balance | refactor | lut_opt | refactor | rewrite -z | refactor -z | refactor,1.0,1.0,2.0
+14,refactor -z | rewrite -z | rewrite | rewrite -z | refactor -z | refactor -z | rewrite -z | rewrite -z | rewrite | lut_opt,1.0,1.0,2.0
+15,refactor -z | rewrite -z | rewrite -z | balance | balance | refactor -z | refactor | rewrite -z | refactor -z | refactor,1.0,1.0,2.0
+16,rewrite -z | rewrite -z | lut_opt | refactor | rewrite -z | rewrite -z | refactor -z | rewrite -z | rewrite -z | lut_opt,1.0,1.0,2.0
+9,refactor -z | rewrite | rewrite | rewrite -z | refactor -z | refactor | rewrite | refactor -z | rewrite | balance,1.0,1.0,2.0
+156,rewrite | refactor | rewrite -z | refactor -z | balance | refactor | refactor | lut_opt | refactor | refactor,1.0,1.0,2.0
+38,rewrite | refactor -z | rewrite | balance | balance | rewrite -z | balance | rewrite | rewrite | refactor,1.0,1.0,2.0
+40,rewrite | balance | rewrite -z | rewrite | balance | rewrite -z | refactor -z | lut_opt | rewrite | refactor,1.0,1.0,2.0
+61,rewrite | refactor | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+62,rewrite | refactor | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | rewrite | refactor,1.0,1.0,2.0
+63,refactor -z | rewrite -z | rewrite | balance | balance | refactor -z | refactor | lut_opt | rewrite | refactor,1.0,1.0,2.0
+64,rewrite | rewrite -z | rewrite | balance | balance | rewrite -z | balance | rewrite -z | rewrite | refactor,1.0,1.0,2.0
+65,lut_opt | refactor | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+66,rewrite | rewrite -z | rewrite -z | balance | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0
+67,rewrite | refactor -z | rewrite -z | rewrite | balance | rewrite -z | refactor -z | lut_opt | balance | refactor,1.0,1.0,2.0
+60,rewrite | refactor | rewrite -z | rewrite | balance | rewrite -z | rewrite -z | rewrite | rewrite | refactor,1.0,1.0,2.0
+68,refactor -z | refactor -z | rewrite -z | balance | balance | refactor -z | refactor | rewrite | refactor -z | refactor,1.0,1.0,2.0
+70,balance | refactor | rewrite | refactor -z | balance | refactor -z | rewrite -z | lut_opt | balance | refactor,1.0,1.0,2.0
+71,rewrite | refactor | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+72,rewrite | balance | rewrite -z | rewrite | balance | rewrite -z | refactor -z | lut_opt | balance | refactor,1.0,1.0,2.0
+73,refactor -z | rewrite -z | rewrite -z | balance | balance | refactor -z | refactor | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+74,lut_opt | refactor | rewrite -z | refactor -z | balance | rewrite -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+75,rewrite | refactor -z | rewrite -z | balance | balance | refactor -z | refactor -z | lut_opt | balance | refactor,1.0,1.0,2.0
+76,rewrite | rewrite -z | rewrite -z | rewrite | balance | rewrite -z | refactor | lut_opt | refactor | refactor,1.0,1.0,2.0
+69,rewrite | refactor | rewrite -z | refactor -z | balance | rewrite -z | rewrite -z | lut_opt | balance | rewrite,1.0,1.0,2.0
+39,balance | rewrite -z | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | balance | rewrite | refactor,1.0,1.0,2.0
+59,rewrite | refactor -z | rewrite -z | rewrite | balance | rewrite -z | refactor -z | lut_opt | rewrite | refactor,1.0,1.0,2.0
+57,refactor -z | rewrite -z | rewrite | refactor -z | balance | refactor -z | refactor | lut_opt | refactor -z | rewrite,1.0,1.0,2.0
+41,balance | refactor | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | lut_opt | balance | refactor,1.0,1.0,2.0
+42,refactor -z | refactor | rewrite -z | rewrite | balance | rewrite -z | refactor | rewrite -z | refactor -z | refactor,1.0,1.0,2.0
+43,balance | refactor | rewrite -z | balance | balance | rewrite -z | rewrite -z | rewrite | rewrite | refactor,1.0,1.0,2.0
+44,refactor -z | rewrite -z | rewrite -z | balance | lut_opt | refactor -z | refactor | rewrite -z | refactor -z | refactor,1.0,1.0,2.0
+45,rewrite | refactor -z | rewrite | refactor -z | balance | rewrite -z | refactor -z | lut_opt | rewrite | refactor,1.0,1.0,2.0
+46,rewrite | refactor | rewrite -z | refactor -z | balance | rewrite -z | rewrite -z | lut_opt | rewrite | rewrite,1.0,1.0,2.0
+47,refactor -z | rewrite -z | rewrite | rewrite | balance | refactor -z | refactor | rewrite | refactor -z | refactor,1.0,1.0,2.0
+58,refactor -z | rewrite -z | rewrite | balance | balance | refactor -z | refactor | lut_opt | balance | refactor,1.0,1.0,2.0
+48,refactor -z | balance | rewrite -z | balance | balance | refactor -z | balance | rewrite -z | rewrite | refactor,1.0,1.0,2.0
+50,balance | balance | rewrite -z | rewrite | balance | refactor -z | balance | lut_opt | balance | refactor,1.0,1.0,2.0
+51,rewrite | refactor -z | rewrite -z | balance | balance | rewrite -z | balance | rewrite -z | rewrite | refactor,1.0,1.0,2.0
+52,rewrite | rewrite -z | rewrite -z | balance | balance | refactor -z | refactor | lut_opt | refactor -z | refactor,1.0,1.0,2.0
+53,rewrite | refactor -z | rewrite -z | rewrite | balance | rewrite -z | refactor -z | lut_opt | rewrite | refactor,1.0,1.0,2.0
+54,balance | refactor | rewrite -z | refactor -z | balance | refactor -z | rewrite -z | rewrite -z | refactor -z | rewrite,1.0,1.0,2.0
+55,rewrite | rewrite -z | rewrite -z | balance | balance | refactor -z | refactor | lut_opt | refactor | refactor,1.0,1.0,2.0
+56,rewrite | balance | rewrite | balance | balance | rewrite -z | balance | rewrite | rewrite | refactor,1.0,1.0,2.0
+49,rewrite | balance | rewrite | refactor -z | balance | rewrite -z | balance | lut_opt | rewrite | refactor,1.0,1.0,2.0
+157,balance | rewrite -z | rewrite -z | refactor | balance | refactor -z | refactor | lut_opt | refactor | rewrite,1.0,1.0,2.0

@@ -1,0 +1,3 @@
+,seq_id,ratio area,ratio depth,both
+0,rewrite -z | rewrite -z | rewrite | balance | rewrite | lut_opt | lut_opt | refactor,1.0123076923076924,0.8333333333333334,1.8456410256410258
+1,balance | rewrite | refactor | rewrite | refactor -z | refactor | balance | refactor,0.9784615384615385,1.0,1.9784615384615385

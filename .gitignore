@@ -1,0 +1,12 @@
+.idea
+.vscode
+bin
+tmp
+build
+debug
+release
+benchmark
+*.d
+*.o
+*.sh
+*.txt

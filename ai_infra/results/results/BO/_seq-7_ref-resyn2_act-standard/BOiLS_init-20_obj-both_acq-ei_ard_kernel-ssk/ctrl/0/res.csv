@@ -1,0 +1,26 @@
+,seq_id,ratio area,ratio depth,both
+0,refactor -z ; lut_opt ; balance ; refactor -z ; rewrite ; rewrite -z ; lut_opt,1.0,1.0,2.0
+22,refactor -z ; rewrite -z ; refactor ; refactor ; rewrite ; rewrite -z ; refactor,1.0,1.0,2.0
+21,balance ; balance ; balance ; refactor -z ; rewrite -z ; rewrite -z ; rewrite -z,1.0,1.0,2.0
+20,refactor -z ; refactor -z ; balance ; refactor -z ; refactor -z ; refactor -z ; refactor -z,1.0,1.0,2.0
+19,refactor ; balance ; rewrite ; rewrite -z ; lut_opt ; rewrite ; rewrite,1.0,1.0,2.0
+18,rewrite ; rewrite -z ; lut_opt ; refactor ; balance ; balance ; lut_opt,1.0,1.0,2.0
+17,rewrite -z ; rewrite -z ; refactor -z ; balance ; refactor -z ; refactor -z ; lut_opt,1.0,1.0,2.0
+16,lut_opt ; lut_opt ; rewrite -z ; lut_opt ; balance ; rewrite ; rewrite -z,1.0,1.0,2.0
+15,refactor -z ; lut_opt ; lut_opt ; rewrite ; refactor ; rewrite -z ; balance,1.0,1.0,2.0
+14,rewrite ; refactor ; rewrite -z ; balance ; lut_opt ; balance ; refactor -z,1.0,1.0,2.0
+13,refactor ; lut_opt ; refactor ; refactor ; rewrite ; refactor ; refactor -z,1.0,1.0,2.0
+23,balance ; balance ; balance ; lut_opt ; lut_opt ; rewrite -z ; lut_opt,1.0,1.0,2.0
+12,lut_opt ; rewrite -z ; refactor ; refactor -z ; refactor ; balance ; lut_opt,1.0,1.0,2.0
+10,lut_opt ; rewrite ; rewrite ; lut_opt ; refactor -z ; lut_opt ; refactor -z,1.0,1.0,2.0
+9,refactor ; refactor -z ; lut_opt ; rewrite -z ; rewrite ; balance ; rewrite,1.0,1.0,2.0
+8,lut_opt ; rewrite -z ; refactor ; refactor -z ; lut_opt ; refactor -z ; lut_opt,1.0,1.0,2.0
+7,balance ; balance ; lut_opt ; refactor ; balance ; rewrite ; refactor,1.0,1.0,2.0
+6,rewrite -z ; balance ; refactor ; rewrite ; rewrite -z ; lut_opt ; refactor -z,1.0,1.0,2.0
+5,balance ; refactor ; refactor -z ; rewrite -z ; rewrite ; rewrite ; rewrite,1.0,1.0,2.0
+4,lut_opt ; refactor -z ; refactor -z ; lut_opt ; balance ; refactor ; lut_opt,1.0,1.0,2.0
+3,balance ; refactor -z ; refactor ; refactor ; lut_opt ; lut_opt ; balance,1.0,1.0,2.0
+2,rewrite ; refactor -z ; rewrite -z ; rewrite ; refactor -z ; rewrite ; rewrite -z,1.0,1.0,2.0
+1,refactor ; rewrite -z ; rewrite ; rewrite -z ; lut_opt ; rewrite -z ; rewrite,1.0,1.0,2.0
+11,rewrite ; refactor ; refactor -z ; refactor ; rewrite -z ; balance ; balance,1.0,1.0,2.0
+24,rewrite -z ; lut_opt ; rewrite -z ; refactor -z ; refactor -z ; rewrite -z ; rewrite -z,1.0,1.0,2.0

@@ -1,0 +1,2 @@
+,seq_id,ratio1 ,ratio2 ,both
+0,balance | rewrite | balance | balance | lut_opt,0.9753846153846154,0.8333333333333334,1.8087179487179488

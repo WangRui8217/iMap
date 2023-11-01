@@ -1,0 +1,3 @@
+,seq_id,ratio1 area,ratio2 depth,both
+0,balance | rewrite | rewrite | rewrite -z | rewrite | rewrite | refactor | rewrite | rewrite -z | rewrite,0.944223107,0.93939393,1.8836170469636606
+1,balance | rewrite | rewrite | rewrite -z | rewrite | rewrite | refactor | rewrite | rewrite -z | rewrite -z,0.944223107,0.93939393,1.8836170469636606

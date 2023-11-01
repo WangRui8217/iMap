@@ -1,0 +1,5 @@
+,seq_id,ratio1 ,ratio2 ,both
+0,balance | rewrite -z | rewrite | rewrite -z | rewrite -z | rewrite -z | rewrite -z,0.9800796812749004,0.9393939393939394,1.9194736206688399
+2,balance | rewrite -z | rewrite | rewrite -z | rewrite -z | rewrite -z | rewrite,0.9800796812749004,0.9393939393939394,1.9194736206688399
+1,balance | rewrite -z | rewrite | refactor | rewrite -z | rewrite -z | rewrite -z,0.9641434262948207,0.9696969696969697,1.9338403959917905
+3,rewrite -z | rewrite -z | rewrite | rewrite -z | rewrite -z | rewrite -z | rewrite -z,1.051792828685259,0.9090909090909091,1.960883737776168

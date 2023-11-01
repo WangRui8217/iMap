@@ -1,0 +1,5 @@
+,seq_id,ratio area,ratio depth,both
+0,rewrite ; refactor ; rewrite -z ; balance ; lut_opt ; balance ; refactor -z,0.7271391847227323,0.4444444444444444,1.1715836291671766
+2,rewrite ; refactor ; balance ; balance ; lut_opt ; balance ; refactor -z,0.7271391847227323,0.4444444444444444,1.1715836291671766
+3,refactor ; rewrite ; rewrite -z ; balance ; lut_opt ; balance ; refactor -z,0.7271391847227323,0.4444444444444444,1.1715836291671766
+1,rewrite ; rewrite -z ; lut_opt ; refactor ; balance ; balance ; lut_opt,0.6401028277634961,0.6111111111111112,1.2512139388746073
